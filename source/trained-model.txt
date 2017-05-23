@@ -1,0 +1,3 @@
+1) model_1_nimish.tflearn.data-00000-of-00001   https://drive.google.com/open?id=0B8_K9DW3E9PlV0phWlFfRGFfcEk
+2) model_1_nimish.tflearn.index                 https://drive.google.com/open?id=0B8_K9DW3E9PlSmJySGM2Z0lwdlU
+3) model_1_nimish.tflearn.meta                  https://drive.google.com/open?id=0B8_K9DW3E9Plb0ZVeHg0cEJuNlE
