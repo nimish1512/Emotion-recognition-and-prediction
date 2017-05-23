@@ -11,6 +11,7 @@ OpenCV
 ```
 pip install tensorflow numpy scipy h5py
 ```
+Download the trained model from the links given in source/trained-model.txt
 # Testing
 ```
 python em_model.py
