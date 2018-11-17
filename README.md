@@ -1,6 +1,6 @@
 # Emotion-recognition-and-prediction
 
-A real time system to detect human emotions from image and voice and predict its reaction. This is a pre-trained model with an accuracy of **68.7%** over FER 2013 dataset. This project is the direct outcome of my graduation submission at MIT, Pune. The extraction of emotions from audio is done by using [pyAudio](https://github.com/tyiannak/pyAudioAnalysis)
+A real time system to detect human emotions from image and voice and predict its reaction. This is a pre-trained model with an accuracy of **68.7%** over Facial Expression Recognition (FER) 2013 dataset. This project is the direct outcome of my graduation submission at MIT, Pune. The extraction of emotions from audio is done by using [pyAudio](https://github.com/tyiannak/pyAudioAnalysis)
 **Reaction prediction module is under development and is not included yet**
 
 # Prerequisites
