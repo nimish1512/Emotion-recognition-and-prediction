@@ -1,15 +1,16 @@
 from __future__ import division, absolute_import
 import re
-import numpy as np
-import tflearn
-from tflearn.layers.core import input_data, dropout, fully_connected, flatten
-from tflearn.layers.conv import conv_2d, max_pool_2d, avg_pool_2d
-from tflearn.layers.merge_ops import merge
-from tflearn.layers.normalization import local_response_normalization
-from tflearn.layers.estimator import regression
-from os.path import isfile, join
-import random
 import sys
+import random
+import tflearn
+import numpy as np
+from os.path import isfile, join
+from tflearn.layers.merge_ops import merge
+from tflearn.layers.estimator import regression
+from tflearn.layers.conv import conv_2d, max_pool_2d, avg_pool_2d
+from tflearn.layers.normalization import local_response_normalization
+from tflearn.layers.core import input_data, dropout, fully_connected, flatten
+
 
 class EMR:
 
